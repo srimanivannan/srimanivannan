@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srimanivannan
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning GraphQL and Spring boot webflux
+- 🌱 I’m currently learning GO, Reactive Design Patterns, gRPC
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me on twitter @srimani55
 
